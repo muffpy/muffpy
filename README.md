@@ -4,7 +4,7 @@
 
 📍 Working on Palantir's Artificial Intelligence Platform (AIP) as a Software Engineer (Dev) Intern 
 
-🤗 Website: [muffpy.github.io](https://muffpy.github.io/) 🖋 Blog: [muffpy.github.io/blog](https://muffpy.github.io/blog/)
+🤗 Portfolio/blog: [muffpy.github.io](https://muffpy.github.io/)[/blog](https://muffpy.github.io/blog)
 
 📫 Email: [rahulathreya@yahoo.com](mailto:rahulathreya@yahoo.com)
 
