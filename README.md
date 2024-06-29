@@ -1,22 +1,12 @@
-### Hi there 👋 I'm Rahul
+🎓 Bachelor's in Computer science from King's College London  
 
+🔭 Interested in systems programming, algorithm design and combinatorial analysis.
 
+📍 Working on Palantir's Artificial Intelligence Platform (AIP) as a Software Engineer (Dev) Intern 
 
-🔭 I’m currently working on Palantir's Artificial Intelligence Platform
+🤗 Website: [muffpy.github.io](https://muffpy.github.io/) 🖋 Blog: [muffpy.github.io/blog](https://muffpy.github.io/blog/)
 
-🌱 I’m currently learning Go
-
-👯 I’m looking to collaborate on ...
-
-🤔 I’m looking for help with ...
-
-💬 Ask me about ...
-
-📫 How to reach me: ...
-
-😄 Pronouns: he/him
-
-⚡ Fun fact: ...
+📫 Email: [rahulathreya@yahoo.com](mailto:rahulathreya@yahoo.com)
 
 ### Languages and Tools:
 
