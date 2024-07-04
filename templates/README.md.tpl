@@ -11,11 +11,6 @@
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
-#### 🌱 Check out my recent projects
-{{range recentRepos 5}}
-- [{{.Name}}]({{.URL}}) - {{.Description}}
-{{- end}}
-
 #### ⭐ Check out my recent stars
 {{range recentStars 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
