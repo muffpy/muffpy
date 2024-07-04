@@ -22,5 +22,5 @@
 - [adam-p/markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending. (3 years ago)
 - [5CCS2PEP/assignment2020cpp-muffpy](https://github.com/5CCS2PEP/assignment2020cpp-muffpy) - assignment2020cpp-muffpy created by GitHub Classroom (3 years ago)
 
-#### 👨‍💻 Check out my LeetCode stats
+### 👨‍💻 Check out my LeetCode stats
 ![LeetCode Stats](https://leetcode.card.workers.dev/lcascension?theme=unicorn&font=baloo&extension=null)
