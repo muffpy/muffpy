@@ -14,14 +14,6 @@
 - [muffpy/muffpy.github.io](https://github.com/muffpy/muffpy.github.io) - My portfolio (3 days ago)
 - [muffpy/libdeep](https://github.com/muffpy/libdeep) - Grokking the internals of deep learning systems (PyTorch, TensorFlow) (6 days ago)
 
-#### 🌱 Check out my recent projects
-
-- [muffpy/mrgo](https://github.com/muffpy/mrgo) - A MapReduce implementation in Golang
-- [muffpy/netstackxx](https://github.com/muffpy/netstackxx) - Rewriting the Linux networking protocol stack in C&#43;&#43;
-- [muffpy/funlang](https://github.com/muffpy/funlang) - An LLVM backed FUN compiler 
-- [muffpy/libdeep](https://github.com/muffpy/libdeep) - Grokking the internals of deep learning systems (PyTorch, TensorFlow)
-- [muffpy/xv6-labs-2023](https://github.com/muffpy/xv6-labs-2023) - MIT 6.1810: Operating System Engineering Xv6 systems programming labs 
-
 #### ⭐ Check out my recent stars
 
 - [cs61/cs61-sections](https://github.com/cs61/cs61-sections) - CS61 section material (6 months ago)
