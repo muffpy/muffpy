@@ -8,11 +8,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [muffpy/netstackxx](https://github.com/muffpy/netstackxx) - Rewriting the Linux networking protocol stack in C&#43;&#43; (today)
 - [muffpy/cs-notes](https://github.com/muffpy/cs-notes) - Computer science notes ordered by topic (1 day ago)
 - [muffpy/unibuddy_exercise](https://github.com/muffpy/unibuddy_exercise) - Unibuddy interview exercises (2 days ago)
 - [muffpy/muffpy.github.io](https://github.com/muffpy/muffpy.github.io) - My portfolio (1 week ago)
 - [muffpy/mrgo](https://github.com/muffpy/mrgo) - A MapReduce implementation in Golang (1 week ago)
-- [muffpy/lightdb](https://github.com/muffpy/lightdb) - A lightweight disk-oriented relational database in C&#43;&#43; (1 week ago)
 
 #### ⭐ Check out my recent stars
 
