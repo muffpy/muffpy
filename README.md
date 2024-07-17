@@ -8,11 +8,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [muffpy/netstackxx](https://github.com/muffpy/netstackxx) - Rewriting the Linux networking protocol stack in C&#43;&#43; (3 days ago)
-- [muffpy/unibuddy_exercise](https://github.com/muffpy/unibuddy_exercise) - Unibuddy interview exercises (5 days ago)
+- [muffpy/anki-export2html](https://github.com/muffpy/anki-export2html) - Export Anki decks to HTML (1 day ago)
+- [muffpy/netstackxx](https://github.com/muffpy/netstackxx) - Rewriting the Linux networking protocol stack in C&#43;&#43; (4 days ago)
+- [muffpy/unibuddy_exercise](https://github.com/muffpy/unibuddy_exercise) - Unibuddy interview exercises (6 days ago)
 - [muffpy/muffpy.github.io](https://github.com/muffpy/muffpy.github.io) - My portfolio (1 week ago)
 - [muffpy/mrgo](https://github.com/muffpy/mrgo) - A MapReduce implementation in Golang (1 week ago)
-- [muffpy/lightdb](https://github.com/muffpy/lightdb) - A lightweight disk-oriented relational database in C&#43;&#43; (2 weeks ago)
 
 #### ⭐ Check out my recent stars
 
