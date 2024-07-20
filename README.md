@@ -8,10 +8,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [muffpy/libdeep](https://github.com/muffpy/libdeep) - Grokking the internals of deep learning systems (PyTorch, TensorFlow) (1 day ago)
-- [muffpy/funlang](https://github.com/muffpy/funlang) - An LLVM backed FUN compiler  (2 days ago)
-- [muffpy/anki-export2html](https://github.com/muffpy/anki-export2html) - Export Anki decks to HTML (3 days ago)
-- [muffpy/netstackxx](https://github.com/muffpy/netstackxx) - Rewriting the Linux networking protocol stack in C&#43;&#43; (6 days ago)
+- [muffpy/libdeep](https://github.com/muffpy/libdeep) - Grokking the internals of deep learning systems (PyTorch, TensorFlow) (2 days ago)
+- [muffpy/funlang](https://github.com/muffpy/funlang) - An LLVM backed FUN compiler  (3 days ago)
+- [muffpy/anki-export2html](https://github.com/muffpy/anki-export2html) - Export Anki decks to HTML (4 days ago)
+- [muffpy/netstackxx](https://github.com/muffpy/netstackxx) - Rewriting the Linux networking protocol stack in C&#43;&#43; (1 week ago)
 - [muffpy/unibuddy_exercise](https://github.com/muffpy/unibuddy_exercise) - Unibuddy interview exercises (1 week ago)
 
 #### ⭐ Check out my recent stars
