@@ -16,7 +16,7 @@
 
 #### ⭐ Check out my recent stars
 
-- [uclnlp/stat-nlp-book](https://github.com/uclnlp/stat-nlp-book) - Interactive Lecture Notes, Slides and Exercises for Statistical NLP (3 days ago)
+- [uclnlp/stat-nlp-book](https://github.com/uclnlp/stat-nlp-book) - Interactive Lecture Notes, Slides and Exercises for Statistical NLP (4 days ago)
 - [skyzh/type-exercise-in-rust](https://github.com/skyzh/type-exercise-in-rust) - Learn Rust dark magics by implementing an expression framework in database systems (2 weeks ago)
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision (1 month ago)
 - [stephenrkell/libcrunch](https://github.com/stephenrkell/libcrunch) - A dynamically safe implementation of C, using your existing C compiler. Tolerates idiomatic C code pretty well. Not perfect... yet. (1 month ago)
