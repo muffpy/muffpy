@@ -16,11 +16,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [cassidoo/getting-a-gig](https://github.com/cassidoo/getting-a-gig) - Guide for getting a gig as a tech student. (today)
 - [uclnlp/stat-nlp-book](https://github.com/uclnlp/stat-nlp-book) - Interactive Lecture Notes, Slides and Exercises for Statistical NLP (1 week ago)
 - [skyzh/type-exercise-in-rust](https://github.com/skyzh/type-exercise-in-rust) - Learn Rust dark magics by implementing an expression framework in database systems (4 weeks ago)
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision (1 month ago)
 - [stephenrkell/libcrunch](https://github.com/stephenrkell/libcrunch) - A dynamically safe implementation of C, using your existing C compiler. Tolerates idiomatic C code pretty well. Not perfect... yet. (1 month ago)
-- [cs61/cs61-sections](https://github.com/cs61/cs61-sections) - CS61 section material (8 months ago)
 
 ### 👨‍💻 Check out my LeetCode stats
 ![LeetCode Stats](https://leetcode.card.workers.dev/lcascension?theme=unicorn&font=baloo&extension=null)
