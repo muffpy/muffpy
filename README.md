@@ -22,5 +22,7 @@
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision (2 months ago)
 - [stephenrkell/libcrunch](https://github.com/stephenrkell/libcrunch) - A dynamically safe implementation of C, using your existing C compiler. Tolerates idiomatic C code pretty well. Not perfect... yet. (2 months ago)
 
+<!--
 ### 👨‍💻 Check out my LeetCode stats
 ![LeetCode Stats](https://leetcode.card.workers.dev/lcascension?theme=unicorn&font=baloo&extension=null)
+-->
