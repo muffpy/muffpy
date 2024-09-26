@@ -8,7 +8,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [muffpy/cs-notes](https://github.com/muffpy/cs-notes) - Computer science notes ordered by topic (5 days ago)
+- [muffpy/cs-notes](https://github.com/muffpy/cs-notes) - Computer science notes ordered by topic (6 days ago)
 - [muffpy/muffpy.github.io](https://github.com/muffpy/muffpy.github.io) - My portfolio &#43; CV generator (2 weeks ago)
 - [muffpy/libdeep](https://github.com/muffpy/libdeep) - Grokking the internals of deep learning systems (PyTorch, TensorFlow) (2 months ago)
 - [muffpy/funlang](https://github.com/muffpy/funlang) - An LLVM backed FUN compiler  (2 months ago)
@@ -16,7 +16,7 @@
 
 #### ⭐ Check out my recent stars
 
-- [ashishps1/awesome-leetcode-resources](https://github.com/ashishps1/awesome-leetcode-resources) - Awesome LeetCode resources to learn Data Structures and Algorithms and prepare for Coding Interviews. (5 days ago)
+- [ashishps1/awesome-leetcode-resources](https://github.com/ashishps1/awesome-leetcode-resources) - Awesome LeetCode resources to learn Data Structures and Algorithms and prepare for Coding Interviews. (6 days ago)
 - [cassidoo/getting-a-gig](https://github.com/cassidoo/getting-a-gig) - Guide for getting a gig as a tech student. (3 weeks ago)
 - [uclnlp/stat-nlp-book](https://github.com/uclnlp/stat-nlp-book) - Interactive Lecture Notes, Slides and Exercises for Statistical NLP (1 month ago)
 - [skyzh/type-exercise-in-rust](https://github.com/skyzh/type-exercise-in-rust) - Learn Rust dark magics by implementing an expression framework in database systems (1 month ago)
