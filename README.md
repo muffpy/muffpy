@@ -8,8 +8,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [muffpy/cs-notes](https://github.com/muffpy/cs-notes) - Computer science notes ordered by topic (today)
-- [muffpy/muffpy.github.io](https://github.com/muffpy/muffpy.github.io) - My portfolio &#43; CV generator (6 days ago)
+- [muffpy/cs-notes](https://github.com/muffpy/cs-notes) - Computer science notes ordered by topic (1 day ago)
+- [muffpy/muffpy.github.io](https://github.com/muffpy/muffpy.github.io) - My portfolio &#43; CV generator (1 week ago)
 - [muffpy/libdeep](https://github.com/muffpy/libdeep) - Grokking the internals of deep learning systems (PyTorch, TensorFlow) (2 months ago)
 - [muffpy/funlang](https://github.com/muffpy/funlang) - An LLVM backed FUN compiler  (2 months ago)
 - [muffpy/anki-export2html](https://github.com/muffpy/anki-export2html) - Export Anki decks to HTML (2 months ago)
