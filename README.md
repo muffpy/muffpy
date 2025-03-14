@@ -11,7 +11,7 @@
 - [muffpy/cs-notes](https://github.com/muffpy/cs-notes) - Computer science notes ordered by topic (4 months ago)
 - [muffpy/muffpy.github.io](https://github.com/muffpy/muffpy.github.io) - My portfolio &#43; CV generator (5 months ago)
 - [muffpy/libdeep](https://github.com/muffpy/libdeep) - Grokking the internals of deep learning systems (PyTorch, TensorFlow) (7 months ago)
-- [muffpy/funlang](https://github.com/muffpy/funlang) - An LLVM backed FUN compiler  (7 months ago)
+- [muffpy/funlang](https://github.com/muffpy/funlang) - An LLVM backed FUN compiler  (8 months ago)
 - [muffpy/anki-export2html](https://github.com/muffpy/anki-export2html) - Export Anki decks to HTML (8 months ago)
 
 #### ⭐ Check out my recent stars
