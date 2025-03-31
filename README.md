@@ -17,7 +17,7 @@
 #### ⭐ Check out my recent stars
 
 - [ashishps1/awesome-leetcode-resources](https://github.com/ashishps1/awesome-leetcode-resources) - Awesome LeetCode resources to learn Data Structures and Algorithms and prepare for Coding Interviews. (6 months ago)
-- [cassidoo/getting-a-gig](https://github.com/cassidoo/getting-a-gig) - Guide for getting a gig as a tech student. (6 months ago)
+- [cassidoo/getting-a-gig](https://github.com/cassidoo/getting-a-gig) - Guide for getting a gig as a tech student. (7 months ago)
 - [uclnlp/stat-nlp-book](https://github.com/uclnlp/stat-nlp-book) - Interactive Lecture Notes, Slides and Exercises for Statistical NLP (7 months ago)
 - [skyzh/type-exercise-in-rust](https://github.com/skyzh/type-exercise-in-rust) - Learn Rust dark magics by implementing an expression framework in database systems (7 months ago)
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision (8 months ago)
