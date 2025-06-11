@@ -12,7 +12,7 @@
 - [muffpy/muffpy.github.io](https://github.com/muffpy/muffpy.github.io) - My portfolio &#43; CV generator (8 months ago)
 - [muffpy/libdeep](https://github.com/muffpy/libdeep) - Grokking the internals of deep learning systems (PyTorch, TensorFlow) (10 months ago)
 - [muffpy/funlang](https://github.com/muffpy/funlang) - An LLVM backed FUN compiler  (10 months ago)
-- [muffpy/anki-export2html](https://github.com/muffpy/anki-export2html) - Export Anki decks to HTML (10 months ago)
+- [muffpy/anki-export2html](https://github.com/muffpy/anki-export2html) - Export Anki decks to HTML (11 months ago)
 
 #### ⭐ Check out my recent stars
 
