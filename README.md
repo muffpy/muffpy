@@ -8,12 +8,12 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [muffpy/muffpy.github.io](https://github.com/muffpy/muffpy.github.io) - My portfolio &#43; CV generator (2 weeks ago)
+- [muffpy/muffpy.github.io](https://github.com/muffpy/muffpy.github.io) - My portfolio &#43; CV generator (3 weeks ago)
 - [muffpy/cs-notes](https://github.com/muffpy/cs-notes) - Computer science notes ordered by topic (10 months ago)
 
 #### ⭐ Check out my recent stars
 
-- [wilsonzlin/queued](https://github.com/wilsonzlin/queued) - Highly durable simple queue service scalable to millions of operations per second (2 days ago)
+- [wilsonzlin/queued](https://github.com/wilsonzlin/queued) - Highly durable simple queue service scalable to millions of operations per second (3 days ago)
 - [openai/gpt-oss](https://github.com/openai/gpt-oss) - gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI (2 weeks ago)
 - [ashishps1/awesome-leetcode-resources](https://github.com/ashishps1/awesome-leetcode-resources) - Awesome LeetCode resources to learn Data Structures and Algorithms and prepare for Coding Interviews. (11 months ago)
 - [cassidoo/getting-a-gig](https://github.com/cassidoo/getting-a-gig) - Guide for getting a gig as a tech student. (11 months ago)
