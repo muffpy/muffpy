@@ -9,7 +9,6 @@
 #### 👷 Check out what I'm currently working on
 
 - [muffpy/muffpy.github.io](https://github.com/muffpy/muffpy.github.io) - My portfolio &#43; CV generator (2 months ago)
-- [muffpy/cs-notes](https://github.com/muffpy/cs-notes) - Computer science notes ordered by topic (1 year ago)
 
 #### ⭐ Check out my recent stars
 
