@@ -15,7 +15,7 @@
 - [wilsonzlin/queued](https://github.com/wilsonzlin/queued) - Highly durable simple queue service scalable to millions of operations per second (6 months ago)
 - [openai/gpt-oss](https://github.com/openai/gpt-oss) - gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI (6 months ago)
 - [ashishps1/awesome-leetcode-resources](https://github.com/ashishps1/awesome-leetcode-resources) - Awesome LeetCode resources to learn Data Structures and Algorithms and prepare for Coding Interviews. (1 year ago)
-- [cassidoo/getting-a-gig](https://github.com/cassidoo/getting-a-gig) - Guide for getting a gig as a tech student. (1 year ago)
+- [cassidoo/getting-a-gig](https://github.com/cassidoo/getting-a-gig) - Guide for getting a gig as a tech student. (2 years ago)
 - [uclnlp/stat-nlp-book](https://github.com/uclnlp/stat-nlp-book) - Interactive Lecture Notes, Slides and Exercises for Statistical NLP (2 years ago)
 
 ### 👨‍💻 Check out my LeetCode stats
