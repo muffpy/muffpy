@@ -12,7 +12,7 @@
 
 #### ⭐ Check out my recent stars
 
-- [wilsonzlin/queued](https://github.com/wilsonzlin/queued) - Highly durable simple queue service scalable to millions of operations per second (6 months ago)
+- [wilsonzlin/queued](https://github.com/wilsonzlin/queued) - Highly durable simple queue service scalable to millions of operations per second (7 months ago)
 - [openai/gpt-oss](https://github.com/openai/gpt-oss) - gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI (7 months ago)
 - [ashishps1/awesome-leetcode-resources](https://github.com/ashishps1/awesome-leetcode-resources) - Awesome LeetCode resources to learn Data Structures and Algorithms and prepare for Coding Interviews. (2 years ago)
 - [cassidoo/getting-a-gig](https://github.com/cassidoo/getting-a-gig) - Guide for getting a gig as a tech student. (2 years ago)
